@@ -1,0 +1,22 @@
+#mainNav .navbar-brand {
+  color: #fad839;
+  font-family: Montserrat, sans-serif;
+  font-size: 23px;
+}
+
+#mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  color: #ebba0d;
+}
+
+a-social {
+  color: #ebba0d;
+}
+
+.a-social:hover {
+  color: #737881;
+}
+
+.a-social {
+  color: #303641;
+}
+
